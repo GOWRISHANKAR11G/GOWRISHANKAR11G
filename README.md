@@ -1,16 +1,75 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Gowri Shankar R</h1>
 
-<!--
-**GOWRISHANKAR11G/GOWRISHANKAR11G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Software Engineer • Java • Spring Boot • React • Node.js
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Building scalable Full Stack Applications and AI-powered solutions.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- B.Tech Computer Science and Business Systems
+- Full Stack Developer
+- Learning System Design, AWS and Kubernetes
+- Passionate about AI-powered Applications
+- Solved 150+ DSA Problems
+
+## Tech Stack
+
+### Languages
+
+Java 
+JavaScript 
+SQL 
+
+### Backend
+Spring Boot
+Node.js
+Express.js
+REST APIs
+JWT Authentication
+
+### Frontend
+React
+HTML5
+CSS3
+JavaScript
+
+### Database
+MySQL
+MongoDB
+
+### Tools
+Git
+GitHub
+VS Code
+IntelliJ IDEA
+Postman
+
+## Featured Projects
+
+### OneClickIntern
+AI-powered internship platform
+Spring Boot
+React
+MySQL
+Gemini API
+
+### ViewerBench
+Creator loyalty platform
+React
+Node.js
+MongoDB
+Socket.IO
+JWT Authentication
+
+##Currently Learning
+- System Design
+- Docker
+- AWS
+- Microservices
+
+## 📫 Contact
+Email: gowrishankar11g@gmail.com
