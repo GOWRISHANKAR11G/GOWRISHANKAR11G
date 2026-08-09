@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gowri Shankar R</h1>
+<h1 align="center">Hi , I'm Gowri Shankar R</h1>
 
 <h3 align="center">
 Software Engineer • Java • Spring Boot • React • Node.js
@@ -71,5 +71,5 @@ JWT Authentication
 - AWS
 - Microservices
 
-## 📫 Contact
+## Contact
 Email: gowrishankar11g@gmail.com
