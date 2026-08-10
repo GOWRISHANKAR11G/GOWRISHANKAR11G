@@ -1,14 +1,14 @@
 <h1 align="center">Hi , I'm Gowri Shankar R</h1>
 
 <h3 align="center">
-Software Engineer • Java • Spring Boot • React • Node.js
+Software Engineer • Java • Spring Boot • React • Node.js 
 </h3>
 
 <p align="center">
 Building scalable Full Stack Applications and AI-powered solutions.
 </p>
 
-## About Me
+## About Me .
 
 - B.Tech Computer Science and Business Systems
 - Full Stack Developer
