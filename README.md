@@ -10,7 +10,7 @@ Building scalable Full Stack Applications and AI-powered solutions.
 
 ## About Me .
 
-- B.Tech Computer Science and Business Systems
+- B.Tech Computer Science and Busines Systems
 - Full Stack Developer
 - Learning System Design, AWS
 - Passionate about AI-powered Applications
