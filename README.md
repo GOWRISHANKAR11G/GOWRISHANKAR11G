@@ -5,7 +5,7 @@ Software Engineer • Java • Spring Boot • React • Node.js
 </h3>
 
 <p align="center">
-Building scalable Full Stack Applications and AI-powered solutions.
+Building scalable Full Stack Applications and AI-powered solutions
 </p>
 
 ## About Me .
