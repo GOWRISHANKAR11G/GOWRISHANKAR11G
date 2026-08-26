@@ -18,7 +18,7 @@ Building scalable Full Stack Applications and AI-powered solutions
 
 ## Tech Stack
 
-### Languages
+## Languages
 
 Java 
 JavaScript 
