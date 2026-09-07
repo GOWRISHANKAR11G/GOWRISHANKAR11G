@@ -48,7 +48,7 @@ VS Code
 IntelliJ IDEA
 Postman
 
-## Featured Projects
+### Featured Projects
 
 ### OneClickIntern
 AI-powered internship platform
