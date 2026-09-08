@@ -8,7 +8,7 @@ Software Engineer • Java • Spring Boot • React • Node.js
 Building scalable Full Stack Applications and AI-powered solutions.
 </p>
 
-## About Me .
+## About
 
 - B.Tech Computer Science and Busines Systems.
 - Full Stack Developer .
