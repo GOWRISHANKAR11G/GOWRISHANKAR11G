@@ -24,14 +24,14 @@ Java
 JavaScript 
 SQL 
 
-### Backend
+## Backend
 Spring Boot
 Node.js
 Express.js
 REST APIs
 JWT Authentication
 
-### Frontend
+## Frontend
 React
 HTML5
 CSS3
