@@ -48,9 +48,9 @@ VS Code
 IntelliJ IDEA
 Postman
 
-### Featured Projects
+## Featured Projects
 
-### OneClickIntern
+## OneClickIntern
 AI-powered internship platform
 Spring Boot
 React
