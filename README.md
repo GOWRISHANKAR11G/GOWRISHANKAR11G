@@ -37,11 +37,11 @@ HTML5
 CSS3
 JavaScript
 
-### Database
+## Database
 MySQL
 MongoDB
 
-### Tools
+## Tools
 Git
 GitHub
 VS Code
