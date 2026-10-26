@@ -31,7 +31,7 @@ Express.js
 REST APIs
 JWT Authentication
 
-### Frontend
+## Frontend
 React
 HTML5
 CSS3
