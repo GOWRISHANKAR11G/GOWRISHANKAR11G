@@ -16,7 +16,7 @@ Building scalable Full Stack Applications and AI-powered solutions.
 - Passionate about AI-powered Applications
 - Solved 150+ DSA Problems
 
-## Tech Stack
+# Tech Stack
 
 # Languages
 
